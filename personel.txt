@@ -1,0 +1,15 @@
+1	Ali	Gun	Bilisim		30	3	30000
+2	Mehmet	Yildiz 	Pazarlama	10	2	25500
+3	Esma 	Dag	Finans		15	5	30000
+4	Fatma 	Sel	iletisim	20	7	20000
+5	Ayla 	Basar 	Arge		0	1	32000
+6	Derya	Gul 	Arge		5	10	35000
+7	Saliha	Duyar	Bilisim		3	4	30000
+8	Murat	Yil	Finans		10	10	25000
+9	Esra	Yagmur	iletisim	0	8	30500
+10	Kerem	Bagci	Pazarlama	10	3	25000
+11	Deniz	Soylu	Arge		33	7	33000
+12	Selma	Sari	Arge		1	4	32000
+13	Belgin	Deniz	Bilisim		9	9	27500
+14	Veli	Can	Arge		5	3	23000
+15	Selman	Ari	Finans		30	2	25000
